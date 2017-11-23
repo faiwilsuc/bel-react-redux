@@ -1,0 +1,8 @@
+
+@font-face {
+  font-family: 'FlandersArtSans-Medium';
+  src: url('FlandersArtSans-Medium.eot?#iefix') format('embedded-opentype'),  url('FlandersArtSans-Medium.otf')  format('opentype'),
+	     url('FlandersArtSans-Medium.woff') format('woff'), url('FlandersArtSans-Medium.ttf')  format('truetype'), url('FlandersArtSans-Medium.svg#FlandersArtSans-Medium') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
